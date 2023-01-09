@@ -112,11 +112,11 @@ a{
 
 .submit-div{
     margin-top: 2px;
-    box-shadow: 40px 80px 100px rgb(252, 77, 77);
+    box-shadow: 10px 10px 40px rgb(252, 77, 77);
     padding: 10% 5%; 
     margin-left: 30%;
     margin-right: 30%;
-    background-color: rgb(250, 216, 175);
+    background-color: rgb(238, 225, 235);
     border: 0px none;
     border-radius: 10px;
 }
@@ -150,8 +150,8 @@ footer{
 #submit-btn{
     background-color: rgb(47, 33, 248);
     color: white;
-    border: 0.5px solid black;
-    width: 70px;
+    border: 1px solid black;
+    width: 100px;
     height: 30px;
     text-align: center;
 }
@@ -163,8 +163,11 @@ footer{
 }
 
 #email{
-    border: 3px rgb(47, 33, 248);
-    border-style: hidden;
-    height: 30px;
+    border: 3px solid rgb(47, 33, 248);
+    height: 23px;
     width: 200px;
+}
+
+.text-align{
+    text-align: center;
 }
