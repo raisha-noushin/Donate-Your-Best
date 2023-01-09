@@ -45,6 +45,7 @@ a{
 
 .second-h3{
     font-size: 20px;
+    padding-top: 1px;
 }
 
 .ammount-taka{
@@ -66,7 +67,11 @@ a{
 }
 
 .third-sec{
-    margin-top: 70px;
+    margin-top: 120px;
+}
+
+.fourth-sec{
+    margin-top: 120px;
 }
 
 .donation-plan{
@@ -76,7 +81,7 @@ a{
 
 .plan-div{
     width: 20%;
-    box-shadow: 10px 15px 50px rgb(252, 65, 65);
+    box-shadow: 10px 15px 50px rgb(252, 77, 77);
     font-size: 20px;
     margin-left: 5%;
     margin-right: 5%;
@@ -92,7 +97,7 @@ a{
 
 .submit-div{
     margin-top: 2px;
-    box-shadow: 40px 90px 90px rgb(252, 65, 65);
+    box-shadow: 40px 90px 90px rgb(252, 77, 77);
     padding: 10% 5%; 
     margin-left: 30%;
     margin-right: 30%;
@@ -107,6 +112,7 @@ footer{
     margin-top: -15px;
     border: 0px none;
     border-radius: 10px;
+    text-align: center;
 }
     
 .footer-p{
@@ -123,5 +129,16 @@ footer{
     margin-top: 0px;
     font-size: 20px;
     color: yellow;
+}
+
+.second-sec{
+    margin-top: 120px;
+}
+
+#submit-btn{
+    background-color: red;
+    color: white;
+    border: 0.5px solid black;
+    width: 50px;
 }
     
