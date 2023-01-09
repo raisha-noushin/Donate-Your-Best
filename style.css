@@ -28,7 +28,7 @@ a{
 .donation-btn{
     margin-top: 50px;
     padding: 20px 70px;
-    background-color: azure;
+    background-color: rgb(6, 241, 241);
     border: none azure;
     border-radius: 9px;
     font-size: 30px;
@@ -41,5 +41,23 @@ a{
 }
 
 .second-h3{
+    font-size: 20px;
+}
 
+.ammount-taka{
+    display: flex;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+.main-ammount{
+    padding-left: 7%;
+    padding-right: 5%;
+    font-size: 50px;
+}
+
+#textarea{
+    border: none;
+    resize:none;
+    outline: none;
 }
