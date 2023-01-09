@@ -2,6 +2,10 @@ body{
     text-align: center;
 }
 
+h1{
+    font-size: 70px;
+}
+
 .topsection{
     background: url(image/Donate\ your\ best\ main\ pic.png);
     background-repeat: no repeat;
@@ -17,7 +21,6 @@ body{
 }
 
 .top-head{
-    font-size: 50px;
     color: blue;
 }
 
@@ -61,3 +64,31 @@ a{
     resize:none;
     outline: none;
 }
+
+.third-sec{
+    margin-top: 70px;
+}
+
+.donation-plan{
+    display: flex;
+    padding: 20px 3px;
+}
+
+.plan-div{
+    width: 20%;
+    box-shadow: 10px 15px 50px rgb(252, 65, 65);
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+    background-color:rgb(230, 211, 188);
+    border: 0px none;
+    border-radius: 25px;
+}
+
+.under-div-h1{
+    font-size: 30px;
+}
+    
+
+
