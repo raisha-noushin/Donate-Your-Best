@@ -89,6 +89,17 @@ a{
 .under-div-h1{
     font-size: 30px;
 }
+
+.submit-div{
+    margin-top: 2px;
+    box-shadow: 40px 90px 90px rgb(252, 65, 65);
+    padding: 10% 5%; 
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(230, 211, 188);
+    border: 0px none;
+    border-radius: 10px;
+}
     
 
 
