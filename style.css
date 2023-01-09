@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+
+.topsection{
+    background: url(image/Donate\ your\ best\ main\ pic.png);
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 720px;
+    background-position: center;
+    text-align: center;
+}
+
+.main-head{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.top-head{
+    font-size: 50px;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+.donation-btn{
+    margin-top: 50px;
+    padding: 20px 70px;
+    background-color: azure;
+    border: none azure;
+    border-radius: 9px;
+    font-size: 30px;
+    color: black;
+}
+
+.next-h3{
+    font-size: 25px;
+    color: chartreuse;
+}
+
+.second-h3{
+
+}
