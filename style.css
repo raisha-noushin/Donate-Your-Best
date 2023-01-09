@@ -100,6 +100,28 @@ a{
     border: 0px none;
     border-radius: 10px;
 }
+
+footer{
+    background-color: black;
+    height: 200px;
+    margin-top: -15px;
+    border: 0px none;
+    border-radius: 10px;
+}
     
+.footer-p{
+    color: blanchedalmond;
+    font-size: 25px;
+    padding-bottom: 0px;
+}
 
+.footer-div{
+    padding: 3% 40%;
+}
 
+.e-mail{
+    margin-top: 0px;
+    font-size: 20px;
+    color: yellow;
+}
+    
