@@ -1,5 +1,6 @@
 body{
-    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 h1{
@@ -7,21 +8,25 @@ h1{
 }
 
 .topsection{
-    background: url(image/Donate\ your\ best\ main\ pic.png);
+    background: url(image/donate.jpg);
     background-repeat: no repeat;
     background-size: cover;
     height: 720px;
-    background-position: center;
+    background-position: top;
     text-align: center;
 }
 
 .main-head{
     text-align: center;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .top-head{
-    color: blue;
+    color: black;
+}
+
+.head-two{
+    padding-top: 1px;
 }
 
 a{
@@ -30,17 +35,17 @@ a{
 
 .donation-btn{
     margin-top: 50px;
-    padding: 20px 70px;
-    background-color: rgb(6, 241, 241);
-    border: none azure;
+    padding: 20px 60px;
+    background-color: rgb(47, 33, 248);
+    border: none;
     border-radius: 9px;
-    font-size: 30px;
-    color: black;
+    font-size: 20px;
+    color: white;
 }
 
 .next-h3{
-    font-size: 25px;
-    color: chartreuse;
+    font-size: 20px;
+    color: black;
 }
 
 .second-h3{
@@ -55,8 +60,8 @@ a{
 }
 
 .main-ammount{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
     font-size: 30px;
 }
 
@@ -66,12 +71,22 @@ a{
     outline: none;
 }
 
+.second-sec{
+    margin-top: 120px;
+    text-align: center;
+}
+
 .third-sec{
     margin-top: 120px;
 }
 
 .fourth-sec{
     margin-top: 120px;
+    text-align: center;
+}
+
+.donation-text{
+    text-align: center;
 }
 
 .donation-plan{
@@ -86,22 +101,22 @@ a{
     margin-left: 5%;
     margin-right: 5%;
     padding: 3%;
-    background-color:rgb(230, 211, 188);
+    background-color: rgb(247, 227, 203);
     border: 0px none;
     border-radius: 25px;
 }
 
 .under-div-h1{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .submit-div{
     margin-top: 2px;
-    box-shadow: 40px 90px 90px rgb(252, 77, 77);
+    box-shadow: 40px 80px 100px rgb(252, 77, 77);
     padding: 10% 5%; 
     margin-left: 30%;
     margin-right: 30%;
-    background-color: rgb(230, 211, 188);
+    background-color: rgb(250, 216, 175);
     border: 0px none;
     border-radius: 10px;
 }
@@ -131,22 +146,25 @@ footer{
     color: yellow;
 }
 
-.second-sec{
-    margin-top: 120px;
-}
 
 #submit-btn{
-    background-color: red;
+    background-color: rgb(47, 33, 248);
     color: white;
     border: 0.5px solid black;
-    width: 50px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
 }
     
 #thousand{
-    border: 5px groove rgb(252, 77, 77);
-    background-color: white;
-    height: 80px;
-    width: 100px;
-    padding: 3px 5px;
-    color: rgb(252, 77, 77);
+    border: 5px groove rgb(47, 33, 248);
+    padding: 10px 20px;
+    color: rgb(47, 33, 248);
+}
+
+#email{
+    border: 3px rgb(47, 33, 248);
+    border-style: hidden;
+    height: 30px;
+    width: 200px;
 }
