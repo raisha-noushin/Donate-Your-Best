@@ -11,9 +11,10 @@ h1{
     background: url(image/donate.jpg);
     background-repeat: no repeat;
     background-size: cover;
+    background-position: center;
     height: 720px;
-    background-position: top;
     text-align: center;
+    margin-top: -60px;
 }
 
 .main-head{
